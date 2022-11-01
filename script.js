@@ -34,7 +34,7 @@ console.log(arr); //output => []
 
 const arr1 = ['e', 'd', 'c', 'b', 'a'];
 console.log(arr1.reverse()); //output => ['a', 'b', 'c', 'd', 'e']
-// Reverse method actually reverse the the elements of original array .
+// Reverse method,actually reverse the the elements of original array .
 
 // <=======Concat=========>//
 
